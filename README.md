@@ -9,6 +9,3 @@ Baseline budget forecasting for 2020-2022
 Growth scenarios with 5%, 10%, and 15% additional growth rates
 Focus on high-revenue subcategories and new product introductions
 Interactive dashboards and reports using Power BI
-
-Technologies Used:
-Power BI for data visualization and analysis
